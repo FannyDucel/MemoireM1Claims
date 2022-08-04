@@ -1,4 +1,4 @@
-# GIT CONTENANT LES FICHIERS DE CODE PYTHON PRINCIPAUX UTILISES POUR MON MEMOIRE DE M1 SUR LES CLAIMS
+# Git contenant les fichiers de code python les + essentiels créés et utilisés pour mon mémoire de M1 sur les claims
 
 On suppose que les données textuelles sont dans le dossier "data" (ici vide, mais je peux fournir les données si besoin ; contactez-moi)
 
