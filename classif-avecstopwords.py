@@ -129,7 +129,7 @@ for partie in liste_parties:
 
     #PARTIE VISUALISATION#
     # map clusters to appropriate labels 
-    cluster_map = {0: "zero", 1: "one", 2: "two", 3:"three", 4:'four'}
+    cluster_map = {0: "zero", 1: "one", 2: "two"}
     # apply mapping
     df['cluster'] = df['cluster'].map(cluster_map)
 
